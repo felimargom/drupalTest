@@ -1,0 +1,7 @@
+prueba.example:
+  path: '/prueba/example'
+  defaults:
+    _title: 'Example'
+    _controller: '\Drupal\prueba\Controller\PruebaController'
+  requirements:
+    _permission: 'access content'
